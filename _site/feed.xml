@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily + Charlie</title>
+    <description>Austin, TX
+
+April 7, 2018
+</description>
+    <link>https://smashism.github.io/wedding/</link>
+    <atom:link href="https://smashism.github.io/wedding/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Jan 2018 16:43:06 -0600</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2018 16:43:06 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+  </channel>
+</rss>
